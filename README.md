@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pics
+
+React web application that allows a user to search for any type of image
+
 ## Available Scripts
 
 In the project directory, you can run:
